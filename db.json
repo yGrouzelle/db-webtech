@@ -1,15 +1,15 @@
 {
   "posts" : [
   {
-  "slug": 1,
+  "id": 1,
   "title": "article 1",
   "message": "Vivamus ullamcorper arcu at odio iaculis fermentum. Sed dictum diam nunc, tempus venenatis orci dignissim in."
 }, {
-  "slug": 2,
+  "id": 2,
   "title": "article 2",
   "message": "Vehicula non lacus nec, fermentum interdum elit. Morbi porttitor tincidunt augue"
 }, {
-  "slug": 3,
+  "id": 3,
   "title": "article 3",
   "message": "Phasellus scelerisque condimentum finibus. Proin facilisis nisi eu finibus feug at volutpat nibh, malesuada iaculis leo."
 }
