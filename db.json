@@ -1,4 +1,4 @@
- [{
+{"post":[{
   "slug": 1,
   "title": "article 1",
   "message": "Vivamus ullamcorper arcu at odio iaculis fermentum. Sed dictum diam nunc, tempus venenatis orci dignissim in."
@@ -11,3 +11,6 @@
   "title": "article 3",
   "message": "Phasellus scelerisque condimentum finibus. Proin facilisis nisi eu finibus feug at volutpat nibh, malesuada iaculis leo."
 }]
+"profile":{
+"name": "typicode"
+}}
